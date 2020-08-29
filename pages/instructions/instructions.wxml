@@ -1,0 +1,20 @@
+<view class="operation">
+    <button size="mini" bindtap="writeBLECharacteristicValue1"  class="option_1">1灯亮</button>
+    <button  size="mini" bindtap="writeBLECharacteristicValue2"  class="option_1">1灯灭</button>
+    <button  size="mini" bindtap="writeBLECharacteristicValue3"  class="option_1">2灯亮</button>
+    <button  size="mini" bindtap="writeBLECharacteristicValue4"  class="option_1">2灯灭</button>
+</view>
+
+<view class="operation1">
+    <button size="mini" bindtap="feedback" >反馈的数据</button>
+    <view>获取到的数据为：{{feedbackValue}}\n</view>
+    
+</view>
+
+<view class = "echart_panel">
+<ec-canvas ec="{{ecLine}}"></ec-canvas>
+</view>
+
+
+
+ 

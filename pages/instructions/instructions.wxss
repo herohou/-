@@ -1,0 +1,19 @@
+/* pages/instructions/instructions.wxss */
+/* .operation {
+  position: fixed;
+  width: 100%;
+  background-color: #F0F0F0;
+  padding: 50px;
+  font-size: 50px;
+  min-height: 100px; */
+  /* box-shadow: 0px 0px 3px 0px; */
+/* } */
+/* .operation1 {
+  position: fixed;
+  /* width: 100%; */
+  /* background-color: #F0F0F0;
+  padding: 50px;
+  font-size: 50px;
+  min-height: 100px;
+  box-shadow: 0px 0px 3px 0px;
+} */ 
